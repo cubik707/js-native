@@ -22,6 +22,7 @@ beforeEach(() => {
             {
                 type: "HOSPITAL", budget: 200000, staffCount: 200,
                 address: {
+                    number: 2,
                     street: {
                         title: "Central Str"
                     }
@@ -30,6 +31,7 @@ beforeEach(() => {
             {
                 type: "FIRE-STATION", budget: 500000, staffCount: 1000,
                 address: {
+                    number: 2,
                     street: {
                         title: "Souths park str"
                     }
